@@ -1,4 +1,4 @@
-# Class Activity 1 part one
+# Class Activity 1 part one - by Zachary Black
 
 Welcome to CS 491 - Testing and DevOps! Your first assignment is outlined below:
 
